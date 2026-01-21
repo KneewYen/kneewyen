@@ -1,10 +1,9 @@
 ### I'm Nguyen LE, a full-time Software Engineering student @ Concordia University
 
 Work experience:<br>
-• Desk Quant @ [Northview Capital](https://www.northviewcapital.ca/contact)<br>
 • Member @ [Hackconcordia](https://www.hackconcordia.io/#home)<br>
-• Software Engineer Intern @ [Intact Financial Corporation](https://www.intact.ca/fr/assurance-particuliers)<br>
-• Software Engineer Intern @ [Desjardins](https://www.desjardins.com/qc/en.html)<br>
+• Prev Software Engineer Intern @ [Intact Financial Corporation](https://www.intact.ca/fr/assurance-particuliers)<br>
+• Prev Software Engineer Intern @ [Desjardins](https://www.desjardins.com/qc/en.html)<br>
 
 
 
